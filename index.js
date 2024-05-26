@@ -29,6 +29,10 @@ function newFeature2() {
 // git push
 
 // Merge with Github
+// CREATE PULL REQUEST
+// select branches and create pull request
+// then in 'convesations' click merge
+// this will only be done on server not locally
 
 
 function newFeature3() {
