@@ -33,6 +33,7 @@ function newFeature2() {
 // select branches and create pull request
 // then in 'convesations' click merge
 // this will only be done on server not locally
+// to get changes locally - switch to main then git pull
 
 
 function newFeature3() {
