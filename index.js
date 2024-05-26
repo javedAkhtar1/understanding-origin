@@ -21,3 +21,16 @@ function newFeature() {
 function newFeature2() {
     console.log("This is a new feature");
 }
+
+// Merge using CLI
+// to merge
+// switch back to main branch and run 
+// git merge origin/branchname
+// git push
+
+// Merge with Github
+
+
+function newFeature3() {
+    console.log("This feature is coming from branch-2");
+}
