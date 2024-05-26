@@ -39,3 +39,14 @@ function newFeature2() {
 function newFeature3() {
     console.log("This feature is coming from branch-2");
 }
+
+// shortcut
+// git branch "feat/first-feat"
+// git checkout "feat/first-feat"
+// ==> git checkout -b "feat/first-feat" 
+// -b works as git branch
+
+// MERGE VS REBASE
+// MERGE me sab commits ki ek single commit banake merge krte hai - history lose ho jati h
+// REBASE me saare commmits head ke aage add ho jate hai - history maintain rehti h
+// mostly merge hi kiya jata h
