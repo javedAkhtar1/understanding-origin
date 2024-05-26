@@ -60,3 +60,7 @@ function c2() {
     console.log("c2");
 }
 
+function c3() {
+    console.log("c3");
+}
+
