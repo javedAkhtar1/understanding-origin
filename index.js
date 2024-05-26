@@ -50,3 +50,8 @@ function newFeature3() {
 // MERGE me sab commits ki ek single commit banake merge krte hai - history lose ho jati h
 // REBASE me saare commmits head ke aage add ho jate hai - history maintain rehti h
 // mostly merge hi kiya jata h
+
+// REBASING
+function c1() {
+    console.log("c1");
+}
