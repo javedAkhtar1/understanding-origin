@@ -12,3 +12,8 @@ function hey() {
 
 // command = use git remote add origin <repository path>
 // check origin = git remote origin -v
+
+
+function newFeature() {
+    console.log("This is a new feature");
+}
