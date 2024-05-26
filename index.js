@@ -17,3 +17,7 @@ function hey() {
 function newFeature() {
     console.log("This is a new feature");
 }
+
+function newFeature2() {
+    console.log("This is a new feature");
+}
